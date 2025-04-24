@@ -20,18 +20,18 @@ API_URL = "https://api.sync.so/v2/generate"
 SYNC_API_KEY = os.getenv("API_KEY")
 
 # --- Sample Media Links (Replace with yours) ---
-SAMPLE_VIDEOS = {
-    "Sample Video 1": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
-    "Sample Video 2": "https://res.cloudinary.com/demo/video/upload/dog.mp4",
-    "Sample Video 3": "https://res.cloudinary.com/demo/video/upload/cat.mp4",
-    "Sample Video 4": "https://res.cloudinary.com/demo/video/upload/tiger.mp4",
+SAMPLE_AUDIOS = {
+    "Sample Audio 1": "https://res.cloudinary.com/dltnypl9l/video/upload/v1745502217/lipsync_app/voice1.wav",
+    "Sample Audio 2": "https://res.cloudinary.com/dltnypl9l/video/upload/v1745502182/lipsync_app/How%20virus%20is%20created%20webdevelopment%20frontend%20html%20css%20javascript%20coding%20javascripttricks%20-%20Yashu%20Developer-%5BAudioTrimmer.wav",
+    "Sample Audio 3": "https://res.cloudinary.com/dltnypl9l/video/upload/v1745502088/lipsync_app/5_50%20Frontend%20Technologies%20Build%20Beautiful%20UIs%20with%20shadcn_ui%20-%20Sheryians%20Coding%20School-%5BAudioTrimmer.wav",
+    "Sample Audio 4": "https://res.cloudinary.com/dltnypl9l/video/upload/v1745502065/lipsync_app/The%20Most%20GOATED%20Pitch%20on%20Shark%20Tank-%5BAudioTrimmer.wav",
 }
 
-SAMPLE_AUDIOS = {
-    "Sample Audio 1": "https://res.cloudinary.com/demo/video/upload/sample_audio1.mp3",
-    "Sample Audio 2": "https://res.cloudinary.com/demo/video/upload/sample_audio2.mp3",
-    "Sample Audio 3": "https://res.cloudinary.com/demo/video/upload/sample_audio3.mp3",
-    "Sample Audio 4": "https://res.cloudinary.com/demo/video/upload/sample_audio4.mp3",
+SAMPLE_VIDEOS = {
+    "Sample Video 1": "https://res.cloudinary.com/dltnypl9l/video/upload/v1745502214/lipsync_app/mona.mp4",
+    "Sample Video 2": "https://res.cloudinary.com/dltnypl9l/video/upload/v1745502180/lipsync_app/sync.mov",
+    "Sample Video 3": "https://res.cloudinary.com/dltnypl9l/video/upload/v1745502087/lipsync_app/women.mp4",
+    "Sample Video 4": "https://res.cloudinary.com/dltnypl9l/video/upload/v1745502063/lipsync_app/old_man.mp4",
 }
 
 # --- App Configuration ---
