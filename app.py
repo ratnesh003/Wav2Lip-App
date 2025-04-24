@@ -130,7 +130,7 @@ if st.button("🚀 Generate Lip-Synced Video", use_container_width=True):
                 st.stop()
 
         payload = {
-            "model": "lipsync-1.9.0-beta",
+            "model": "lipsync-1.8.0",
             "options": {
                 "output_format": "mp4"
             },
